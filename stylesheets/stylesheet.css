@@ -300,6 +300,7 @@ Full-Width Styles
   background: -o-linear-gradient(top, #373737, #212121);
   background: linear-gradient(top, #373737, #212121);
   position: fixed;  
+  z-index: 1;
 }
 
 #nav_wrap .inner {
